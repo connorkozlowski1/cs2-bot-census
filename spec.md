@@ -1,6 +1,10 @@
 Data Sources:
-- Steam Web API (GetPlayerSummaries, GetFriendList, GetUserStatsForGame).
-- CS2 match history endpoints from public community APIs (document the exact ones once chosen).
+Steam Web API (ISteamUser.GetPlayerSummaries, ISteamUser.GetFriendList, IPlayerService.GetOwnedGames, ISteamUserStats.GetUserStatsForGame for CS2 if available).
+
+Scope:
+v1 estimates bot-likelihood using account-level and coarse activity features only.
+
+v2 may add per-match telemetry from third-party providers.
 Sampling plan:
 - Pull N recent players from public CS2 lobbies.
 - For each player: fetch profile + match history metadata.
