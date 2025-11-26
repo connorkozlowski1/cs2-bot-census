@@ -1,0 +1,21 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198951943898",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "LOMO KING",
+        "profileurl": "https://steamcommunity.com/profiles/76561198951943898/",
+        "avatar": "https://avatars.steamstatic.com/27b8cecdd6048426c4b0bb0c234821ccdbd76d44.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/27b8cecdd6048426c4b0bb0c234821ccdbd76d44_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/27b8cecdd6048426c4b0bb0c234821ccdbd76d44_full.jpg",
+        "avatarhash": "27b8cecdd6048426c4b0bb0c234821ccdbd76d44",
+        "personastate": 0,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1554725894,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "response": {
+    "game_count": 16,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 0,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 0,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 0,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
+        "playtime_forever": 0,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_forever": 0,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+      },
+      {
+        "appid": 774171,
+        "name": "Muse Dash",
+        "playtime_forever": 0,
+        "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 1048100,
+        "name": "Peekaboo",
+        "playtime_forever": 0,
+        "img_icon_url": "c622417b1d4167ca71a2efb1daa2ea6af76c0d60",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1097150,
+        "name": "Fall Guys",
+        "playtime_forever": 0,
+        "img_icon_url": "6c027709b9eb1417c993bc7d513b97b232002368",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1168660,
+        "name": "Barro 2020",
+        "playtime_forever": 0,
+        "img_icon_url": "5294729fcd35c09f5499a64309f5fa311c96b1f1",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1274570,
+        "name": "DEVOUR",
+        "playtime_forever": 0,
+        "img_icon_url": "e24aa080068d3686e0b1b5aa52a4155dc553e69d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1293230,
+        "name": "House of Detention",
+        "playtime_forever": 0,
+        "img_icon_url": "9ae9a408c03ce49ff6383b747d0cd97183734f5f",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          3,
+          5,
+          4
+        ]
+      },
+      {
+        "appid": 1483870,
+        "name": "Draw & Guess",
+        "playtime_forever": 0,
+        "img_icon_url": "fa74c29e304534a16965a53e6044853822830811"
+      },
+      {
+        "appid": 1987080,
+        "name": "Inside the Backrooms",
+        "playtime_forever": 0,
+        "img_icon_url": "36c529359e0802af3589360e03ed781c366b5ae5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

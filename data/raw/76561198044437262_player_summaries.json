@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198044437262",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "KirbChomp",
+        "profileurl": "https://steamcommunity.com/id/MooMooMeowCow/",
+        "avatar": "https://avatars.steamstatic.com/8a4856e7448e3bc5305c8f3eb052d582cb441a52.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/8a4856e7448e3bc5305c8f3eb052d582cb441a52_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/8a4856e7448e3bc5305c8f3eb052d582cb441a52_full.jpg",
+        "avatarhash": "8a4856e7448e3bc5305c8f3eb052d582cb441a52",
+        "personastate": 0,
+        "realname": "Juice Tin",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1309486843,
+        "personastateflags": 0,
+        "loccountrycode": "US",
+        "locstatecode": "CA"
+      }
+    ]
+  }
+}

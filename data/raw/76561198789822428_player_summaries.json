@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198789822428",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Refrag",
+        "commentpermission": 2,
+        "profileurl": "https://steamcommunity.com/profiles/76561198789822428/",
+        "avatar": "https://avatars.steamstatic.com/5d2fe870150e14dbd8a8a57c4bc8aef24f3593d8.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/5d2fe870150e14dbd8a8a57c4bc8aef24f3593d8_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/5d2fe870150e14dbd8a8a57c4bc8aef24f3593d8_full.jpg",
+        "avatarhash": "5d2fe870150e14dbd8a8a57c4bc8aef24f3593d8",
+        "lastlogoff": 1764090965,
+        "personastate": 1,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1757448876,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

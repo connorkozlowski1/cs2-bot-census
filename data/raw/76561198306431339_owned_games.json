@@ -1,0 +1,90 @@
+{
+  "response": {
+    "game_count": 9,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 39907,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 224260,
+        "name": "No More Room in Hell",
+        "playtime_forever": 92,
+        "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "playtime_forever": 233,
+        "img_icon_url": "64f09c15e558464a40ced00a9ef35ed13542e144"
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 51362,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 333930,
+        "name": "Dirty Bomb",
+        "playtime_forever": 32,
+        "img_icon_url": "48a3c464019fc161c2ea17334ca8d545a846a98e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 700330,
+        "name": "SCP: Secret Laboratory",
+        "playtime_forever": 16,
+        "img_icon_url": "ea2e9a0aa3b0d3393e7452913b3c255cd23a13ba",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "playtime_forever": 188,
+        "img_icon_url": "125673b382059f666ec81477173380a76e1df0be",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_forever": 519,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2356500,
+        "name": "Cats Hidden in Bali",
+        "playtime_forever": 0,
+        "img_icon_url": "d913dde5b08a4c5d5c615e1d260815d504e2872b",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

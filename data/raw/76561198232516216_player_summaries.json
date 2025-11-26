@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198232516216",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "\u272aJohn Jones",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561198232516216/",
+        "avatar": "https://avatars.steamstatic.com/5e1a55d64027eed85daa28a416c4fe3e35384a7c.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/5e1a55d64027eed85daa28a416c4fe3e35384a7c_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/5e1a55d64027eed85daa28a416c4fe3e35384a7c_full.jpg",
+        "avatarhash": "5e1a55d64027eed85daa28a416c4fe3e35384a7c",
+        "lastlogoff": 1754102877,
+        "personastate": 0,
+        "primaryclanid": "103582791455956323",
+        "timecreated": 1433700491,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

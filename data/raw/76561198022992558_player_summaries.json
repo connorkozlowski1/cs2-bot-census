@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198022992558",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "bruv",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/N1ko09/",
+        "avatar": "https://avatars.steamstatic.com/9bb72d875ddc54b85f97d8e4dbb886a7315ae663.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/9bb72d875ddc54b85f97d8e4dbb886a7315ae663_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/9bb72d875ddc54b85f97d8e4dbb886a7315ae663_full.jpg",
+        "avatarhash": "9bb72d875ddc54b85f97d8e4dbb886a7315ae663",
+        "personastate": 0,
+        "primaryclanid": "103582791434672565",
+        "timecreated": 1269552160,
+        "personastateflags": 0,
+        "loccountrycode": "US"
+      }
+    ]
+  }
+}

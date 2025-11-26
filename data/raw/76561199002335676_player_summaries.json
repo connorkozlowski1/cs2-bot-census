@@ -1,0 +1,22 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561199002335676",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "\u6653\u6653\u6653",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561199002335676/",
+        "avatar": "https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg",
+        "avatarhash": "1c0b5c37a442a2d39f32902ec42f2e26ba6a142e",
+        "personastate": 0,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1573448224,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

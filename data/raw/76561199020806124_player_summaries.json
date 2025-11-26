@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561199020806124",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Future\u00b7\u851a\u6668\u98ce",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561199020806124/",
+        "avatar": "https://avatars.steamstatic.com/5d7cf0ad61cc4ed3b192d93c70460fe984948a9b.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/5d7cf0ad61cc4ed3b192d93c70460fe984948a9b_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/5d7cf0ad61cc4ed3b192d93c70460fe984948a9b_full.jpg",
+        "avatarhash": "5d7cf0ad61cc4ed3b192d93c70460fe984948a9b",
+        "personastate": 0,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1579769319,
+        "personastateflags": 0,
+        "loccountrycode": "CN"
+      }
+    ]
+  }
+}

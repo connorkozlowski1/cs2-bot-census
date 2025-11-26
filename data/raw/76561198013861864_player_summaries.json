@@ -1,0 +1,21 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198013861864",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Squeeps",
+        "profileurl": "https://steamcommunity.com/profiles/76561198013861864/",
+        "avatar": "https://avatars.steamstatic.com/eddb1157c1d6f6da82cda81fd516a201ac301c9d.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/eddb1157c1d6f6da82cda81fd516a201ac301c9d_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/eddb1157c1d6f6da82cda81fd516a201ac301c9d_full.jpg",
+        "avatarhash": "eddb1157c1d6f6da82cda81fd516a201ac301c9d",
+        "personastate": 0,
+        "primaryclanid": "103582791434672565",
+        "timecreated": 1253456826,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

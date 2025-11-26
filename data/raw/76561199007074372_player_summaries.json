@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561199007074372",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "tnie.08.10",
+        "profileurl": "https://steamcommunity.com/profiles/76561199007074372/",
+        "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+        "avatarhash": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb",
+        "lastlogoff": 1761314575,
+        "personastate": 0,
+        "realname": "tom nie",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1575323238,
+        "personastateflags": 0,
+        "loccountrycode": "US"
+      }
+    ]
+  }
+}

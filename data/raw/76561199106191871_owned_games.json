@@ -1,0 +1,110 @@
+{
+  "response": {
+    "game_count": 11,
+    "games": [
+      {
+        "appid": 500,
+        "name": "Left 4 Dead",
+        "playtime_forever": 0,
+        "img_icon_url": "428df26bc35b09319e31b1ffb712487b20b3245c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 527,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 30709,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 111,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 376210,
+        "name": "The Isle",
+        "playtime_forever": 147,
+        "img_icon_url": "7ae88c1923dbcdee670769fca9c89cc0e540ab46",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "playtime_forever": 280,
+        "img_icon_url": "15c6f6a4d69633a63ee410b24a2417f16d803b06",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 3273,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 648350,
+        "name": "Jurassic World Evolution",
+        "playtime_forever": 8,
+        "img_icon_url": "729afe990601e31fb216e60c4b755600a9d939df",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1019450,
+        "name": "Table Manners",
+        "playtime_forever": 0,
+        "img_icon_url": "5cb641b111c135b138187b1294bf8d9a7d201b24",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1049590,
+        "name": "Eternal Return",
+        "playtime_forever": 14,
+        "img_icon_url": "1d458721c8c4993c111038f72b07b42b66fc4efe"
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

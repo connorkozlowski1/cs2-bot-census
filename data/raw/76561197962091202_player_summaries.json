@@ -1,0 +1,22 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561197962091202",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "zoro",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561197962091202/",
+        "avatar": "https://avatars.steamstatic.com/dc3c900911620bb4664639ee2d5dd2524e8de051.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/dc3c900911620bb4664639ee2d5dd2524e8de051_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/dc3c900911620bb4664639ee2d5dd2524e8de051_full.jpg",
+        "avatarhash": "dc3c900911620bb4664639ee2d5dd2524e8de051",
+        "personastate": 3,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1066370774,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

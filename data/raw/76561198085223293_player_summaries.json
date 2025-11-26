@@ -1,0 +1,22 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198085223293",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Brapthew",
+        "profileurl": "https://steamcommunity.com/profiles/76561198085223293/",
+        "avatar": "https://avatars.steamstatic.com/6e9530d3c2e306485c4ac50d8923030ee5b1238a.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/6e9530d3c2e306485c4ac50d8923030ee5b1238a_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/6e9530d3c2e306485c4ac50d8923030ee5b1238a_full.jpg",
+        "avatarhash": "6e9530d3c2e306485c4ac50d8923030ee5b1238a",
+        "personastate": 0,
+        "primaryclanid": "103582791454338834",
+        "timecreated": 1362235229,
+        "personastateflags": 0,
+        "loccountrycode": "US"
+      }
+    ]
+  }
+}

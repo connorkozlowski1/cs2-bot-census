@@ -1,0 +1,229 @@
+{
+  "response": {
+    "game_count": 29,
+    "games": [
+      {
+        "appid": 400,
+        "name": "Portal",
+        "playtime_forever": 108,
+        "img_icon_url": "cfa928ab4119dd137e50d728e8fe703e4e970aff",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 620,
+        "name": "Portal 2",
+        "playtime_forever": 401,
+        "img_icon_url": "25a5a16b2423bf7487ac5340b5b0948cef48c5f8",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 3046,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 10180,
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "playtime_forever": 0,
+        "img_icon_url": "ad502494f1658220f9166c7e17ac90422bf6a479",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 10190,
+        "name": "Call of Duty: Modern Warfare 2 (2009) - Multiplayer",
+        "playtime_forever": 27,
+        "img_icon_url": "7dd7c2d5bce2413131762d7cbee3f059614ed69d"
+      },
+      {
+        "appid": 21130,
+        "name": "LEGO\u00ae Harry Potter: Years 1-4",
+        "playtime_forever": 307,
+        "img_icon_url": "49af7348b4b6c51181c6210cb91b858d497610a2"
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 3349,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 202200,
+        "name": "Galactic Civilizations II: Ultimate Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "74ef4f8f1c2b4879a54bd93b95eec8f5d20f3727",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 0,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 211050,
+        "name": "Battle vs Chess",
+        "playtime_forever": 64,
+        "img_icon_url": "d92c3df0ee7ac6cace3500936e08ec54d4b6e0d3"
+      },
+      {
+        "appid": 216150,
+        "name": "MapleStory",
+        "playtime_forever": 117387,
+        "img_icon_url": "263753195620210c0947ff3be2cb6b8d835bca23",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 234650,
+        "name": "Shadowrun Returns",
+        "playtime_forever": 0,
+        "img_icon_url": "13c8e62b9b079fba385a2d959ed4e8ce2c378c8c",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 252950,
+        "name": "Rocket League",
+        "playtime_forever": 16844,
+        "img_icon_url": "9ad6dd3d173523354385955b5fb2af87639c4163",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 268910,
+        "name": "Cuphead",
+        "playtime_forever": 1731,
+        "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 269710,
+        "name": "Tumblestone",
+        "playtime_forever": 0,
+        "img_icon_url": "f47ebe95fda5d9c0f5fb60c2b31ed3b087543e98",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 311210,
+        "name": "Call of Duty: Black Ops III",
+        "playtime_forever": 3139,
+        "img_icon_url": "bd3e3a9516b480164df25d16e49ae4ce4a063cb4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 365450,
+        "name": "Hacknet",
+        "playtime_forever": 9,
+        "img_icon_url": "2445c4ead6ee47784a326922271ec1c0b41d64e2",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "playtime_forever": 235,
+        "img_icon_url": "c6379c8ec66ac02565f1155bf3821b846164d93c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "playtime_forever": 10478,
+        "img_icon_url": "aee7491abfd812e2fbb4ec3326ad5f4b85c8137a",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 439700,
+        "name": "H1Z1: Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "d0e924622be8ce1e9920197f397365bb1e6bca5f"
+      },
+      {
+        "appid": 552520,
+        "name": "Far Cry 5",
+        "playtime_forever": 4026,
+        "img_icon_url": "928df2d32021f480499a97458068f62c45298e7a",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 571740,
+        "name": "Golf It!",
+        "playtime_forever": 2546,
+        "img_icon_url": "70b58cf94333587a69cf93c7e4a4241500928251",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 182,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 657200,
+        "name": "Hand Simulator",
+        "playtime_forever": 14,
+        "img_icon_url": "b2ecce2712d54f1978496919c734b6da1d1cbb5e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "playtime_forever": 246,
+        "img_icon_url": "0e2e222010d009ca46b575cc5c53a23250434341",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 182,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1085660,
+        "name": "Destiny 2",
+        "playtime_forever": 20064,
+        "img_icon_url": "fce050d63f0a2f8eb51b603c7f30bfca2a301549",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1097150,
+        "name": "Fall Guys",
+        "playtime_forever": 202,
+        "img_icon_url": "6c027709b9eb1417c993bc7d513b97b232002368",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1173370,
+        "name": "Slapshot: Rebound",
+        "playtime_forever": 167,
+        "img_icon_url": "674676fb4ba48e60020869d8f5fcef1e3c1a3014",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

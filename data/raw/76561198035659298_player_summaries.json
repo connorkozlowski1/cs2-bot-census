@@ -1,0 +1,21 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198035659298",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Ceej",
+        "profileurl": "https://steamcommunity.com/id/Ceej99/",
+        "avatar": "https://avatars.steamstatic.com/11bf92fdd0e0c5e4ed812f8bff6decd4911cac13.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/11bf92fdd0e0c5e4ed812f8bff6decd4911cac13_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/11bf92fdd0e0c5e4ed812f8bff6decd4911cac13_full.jpg",
+        "avatarhash": "11bf92fdd0e0c5e4ed812f8bff6decd4911cac13",
+        "personastate": 0,
+        "primaryclanid": "103582791439567481",
+        "timecreated": 1293292258,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

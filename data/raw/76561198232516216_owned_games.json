@@ -1,0 +1,159 @@
+{
+  "response": {
+    "game_count": 18,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 47394,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 17,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 200210,
+        "name": "Realm of the Mad God Exalt",
+        "playtime_forever": 85,
+        "img_icon_url": "76c62602486e58f9501e09e7e8f189e86823e8d5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "playtime_forever": 14,
+        "img_icon_url": "64f09c15e558464a40ced00a9ef35ed13542e144"
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "playtime_forever": 554,
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 904,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 304930,
+        "name": "Unturned",
+        "playtime_forever": 0,
+        "img_icon_url": "e18009fb628b35953826efe47dc3be556b689f4c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 333930,
+        "name": "Dirty Bomb",
+        "playtime_forever": 758,
+        "img_icon_url": "48a3c464019fc161c2ea17334ca8d545a846a98e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 346900,
+        "name": "AdVenture Capitalist",
+        "playtime_forever": 3903,
+        "img_icon_url": "b4dd5ca1582ed52335b31960e05766fd22fa7cc4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
+        "playtime_forever": 17395,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 424280,
+        "name": "Iron Snout",
+        "playtime_forever": 22,
+        "img_icon_url": "ec30cdaa64f3fa7e63087eded8c5ab7a4e50452e",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 493520,
+        "name": "GTFO",
+        "playtime_forever": 79,
+        "img_icon_url": "c211299ef6127057dfe0271626bb044e79c28f78",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 513560,
+        "name": "Hunger Dungeon",
+        "playtime_forever": 9,
+        "img_icon_url": "fda62fb6f6b6669ac23de9c4cd4fc95860958f19",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+      },
+      {
+        "appid": 700330,
+        "name": "SCP: Secret Laboratory",
+        "playtime_forever": 46,
+        "img_icon_url": "ea2e9a0aa3b0d3393e7452913b3c255cd23a13ba",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 665,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 960090,
+        "name": "Bloons TD 6",
+        "playtime_forever": 1245,
+        "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1281930,
+        "name": "tModLoader",
+        "playtime_forever": 1986,
+        "img_icon_url": "e8a125078a31b8475994e8ce4d8d6fdd6becc131"
+      }
+    ]
+  }
+}

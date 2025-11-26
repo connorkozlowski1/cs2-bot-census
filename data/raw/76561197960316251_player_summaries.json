@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561197960316251",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "murk",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/muRKNNNNNN/",
+        "avatar": "https://avatars.steamstatic.com/4032a1f712c2881443ed6e06c438e5a75cb2d933.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/4032a1f712c2881443ed6e06c438e5a75cb2d933_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/4032a1f712c2881443ed6e06c438e5a75cb2d933_full.jpg",
+        "avatarhash": "4032a1f712c2881443ed6e06c438e5a75cb2d933",
+        "personastate": 0,
+        "primaryclanid": "103582791434205815",
+        "timecreated": 1063366672,
+        "personastateflags": 0,
+        "loccountrycode": "US",
+        "locstatecode": "IL"
+      }
+    ]
+  }
+}

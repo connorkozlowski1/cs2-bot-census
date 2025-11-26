@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561199047100586",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "koz",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561199047100586/",
+        "avatar": "https://avatars.steamstatic.com/b48c5025afcce29c710d854f1f96af8bf287f9db.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/b48c5025afcce29c710d854f1f96af8bf287f9db_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/b48c5025afcce29c710d854f1f96af8bf287f9db_full.jpg",
+        "avatarhash": "b48c5025afcce29c710d854f1f96af8bf287f9db",
+        "lastlogoff": 1764057571,
+        "personastate": 1,
+        "realname": "heem",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1586899736,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

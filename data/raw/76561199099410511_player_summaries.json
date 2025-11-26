@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561199099410511",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Pasta_Slinger",
+        "commentpermission": 2,
+        "profileurl": "https://steamcommunity.com/profiles/76561199099410511/",
+        "avatar": "https://avatars.steamstatic.com/25b88a224d65cd49dc4146506459c19fa3d38cc5.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/25b88a224d65cd49dc4146506459c19fa3d38cc5_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/25b88a224d65cd49dc4146506459c19fa3d38cc5_full.jpg",
+        "avatarhash": "25b88a224d65cd49dc4146506459c19fa3d38cc5",
+        "lastlogoff": 1738828207,
+        "personastate": 0,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1602960410,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

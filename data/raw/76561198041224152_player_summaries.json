@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198041224152",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "TYRONE BIGGUMS",
+        "profileurl": "https://steamcommunity.com/profiles/76561198041224152/",
+        "avatar": "https://avatars.steamstatic.com/8b4e023d462842a5c90024bf7a73095f6604259a.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/8b4e023d462842a5c90024bf7a73095f6604259a_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/8b4e023d462842a5c90024bf7a73095f6604259a_full.jpg",
+        "avatarhash": "8b4e023d462842a5c90024bf7a73095f6604259a",
+        "personastate": 0,
+        "realname": "Tyrone Biggums",
+        "primaryclanid": "103582791435866637",
+        "timecreated": 1303953436,
+        "personastateflags": 0,
+        "loccountrycode": "AQ"
+      }
+    ]
+  }
+}

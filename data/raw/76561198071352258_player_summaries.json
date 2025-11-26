@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198071352258",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "IceAgeMiami",
+        "profileurl": "https://steamcommunity.com/id/IceAgeMiami/",
+        "avatar": "https://avatars.steamstatic.com/056a94d9920f595b623701ea3531eb7dc19af76d.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/056a94d9920f595b623701ea3531eb7dc19af76d_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/056a94d9920f595b623701ea3531eb7dc19af76d_full.jpg",
+        "avatarhash": "056a94d9920f595b623701ea3531eb7dc19af76d",
+        "personastate": 0,
+        "realname": "Chief",
+        "primaryclanid": "103582791434451271",
+        "timecreated": 1347318562,
+        "personastateflags": 0,
+        "loccountrycode": "TD",
+        "locstatecode": "06"
+      }
+    ]
+  }
+}

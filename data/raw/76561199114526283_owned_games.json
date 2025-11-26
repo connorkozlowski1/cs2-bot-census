@@ -1,0 +1,177 @@
+{
+  "response": {
+    "game_count": 18,
+    "games": [
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 17495,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 4516,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 224260,
+        "name": "No More Room in Hell",
+        "playtime_forever": 12,
+        "img_icon_url": "684de0d9c5749b5ddd52f120894fd97efd620b1d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "playtime_forever": 460,
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 239140,
+        "name": "Dying Light",
+        "playtime_forever": 2351,
+        "img_icon_url": "d575b4ba3480fe20aaeda8e8f498c3e47033069d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 393380,
+        "name": "Squad",
+        "playtime_forever": 255,
+        "img_icon_url": "eb66a8cb52165274c84cae6526205065d13119d5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 23,
+        "playtime_forever": 6733,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "playtime_forever": 611,
+        "img_icon_url": "a671f2ddf7359beba9702ac097baf6d50cb07202",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_forever": 1552,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 774941,
+        "name": "Squad - Public Testing",
+        "playtime_forever": 0,
+        "img_icon_url": "6a9ee44c92c5ca7ddacf0d56bb7d5720961da0f8"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_forever": 11617,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1190340,
+        "name": "SUPER PEOPLE",
+        "playtime_forever": 2652,
+        "img_icon_url": "f52b710771a1156ac5216cb6ade53419a9b273f2",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "playtime_forever": 5888,
+        "img_icon_url": "bd28fe592b339cff5a3eef743f31e3166c984c68",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1329410,
+        "name": "\u96c0\u9b42\u9ebb\u5c06(MahjongSoul)",
+        "playtime_forever": 595,
+        "img_icon_url": "9403eb9b90dc6f036dde903a669d70dab3b65e12"
+      },
+      {
+        "appid": 1457430,
+        "name": "\u6597\u7f57\u5927\u9646-\u738b\u56fd\u5370\u8bb0",
+        "playtime_forever": 104,
+        "img_icon_url": "6970ae3f1e21f154fddd76a5bcf3fc98ff25143f"
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_forever": 197,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1938090,
+        "name": "Call of Duty\u00ae",
+        "playtime_forever": 34281,
+        "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2452280,
+        "name": "Mecha BREAK",
+        "playtime_forever": 19,
+        "img_icon_url": "9f7f1b2fce4b229fdd7c67aa78d825d4f3f42cb7",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      }
+    ]
+  }
+}

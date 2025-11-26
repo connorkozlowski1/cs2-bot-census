@@ -1,0 +1,348 @@
+{
+  "response": {
+    "game_count": 43,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 32112,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "playtime_forever": 12,
+        "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 35140,
+        "name": "Batman: Arkham Asylum GOTY Edition",
+        "playtime_forever": 537,
+        "img_icon_url": "e52f91ecb0d3f20263e96fe188de1bcc8c91643e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 7264,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 200260,
+        "name": "Batman: Arkham City GOTY",
+        "playtime_forever": 0,
+        "img_icon_url": "746ecf3ce44b2525eb7ad643e76a3b60913d2662",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 208650,
+        "name": "Batman\u2122: Arkham Knight",
+        "playtime_forever": 82,
+        "img_icon_url": "f6c2ce13796844750dfbd01685fb009eeac4bf70",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 242760,
+        "name": "The Forest",
+        "playtime_forever": 801,
+        "img_icon_url": "3a6847f6ac5879e48531db52261771d5e22904ac",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 412,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "playtime_forever": 2846,
+        "img_icon_url": "6cf7b10dd29db28448ef79698ed2118a03617d63",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 6428,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 289070,
+        "name": "Sid Meier's Civilization VI",
+        "playtime_forever": 3600,
+        "img_icon_url": "9dc914132fec244adcede62fb8e7524a72a7398c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "playtime_forever": 582,
+        "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "playtime_forever": 595,
+        "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
+        "playtime_forever": 33,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 407530,
+        "name": "ARK: Survival Of The Fittest",
+        "playtime_forever": 0,
+        "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_2weeks": 1,
+        "playtime_forever": 865,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 544730,
+        "name": "Catan Universe",
+        "playtime_forever": 251,
+        "img_icon_url": "8cd29d84f760481a824955e880ee5b86b7d2b4dc",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+      },
+      {
+        "appid": 636480,
+        "name": "Ravenfield",
+        "playtime_forever": 201,
+        "img_icon_url": "f6950fb3d34067c4fd6ece36d252d9a6590b84e8"
+      },
+      {
+        "appid": 674940,
+        "name": "Stick Fight: The Game",
+        "playtime_forever": 219,
+        "img_icon_url": "28bc7ba8952d488e01e7136126cbbc3b42ee443a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 677620,
+        "name": "Splitgate",
+        "playtime_forever": 124,
+        "img_icon_url": "03e452b180ff77986c3957819bde4c69448a2d0f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 949230,
+        "name": "Cities: Skylines II",
+        "playtime_forever": 3786,
+        "img_icon_url": "2dfa1f3e740ae5300bf59e9a14066391dab4727a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1127500,
+        "name": "Mini Motorways",
+        "playtime_forever": 571,
+        "img_icon_url": "0e2a65693654834ccf5f3e8984e29d18ae1fa6b7",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 1128810,
+        "name": "RISK: Global Domination",
+        "playtime_forever": 586,
+        "img_icon_url": "ecc6f7301e88a88e93edec1a3d4ddcc7ec9c5335",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1172380,
+        "name": "STAR WARS Jedi: Fallen Order\u2122 ",
+        "playtime_forever": 327,
+        "img_icon_url": "0ea1d285a8ee6fbeef0e8f7f3b2d7fa4cbcb423b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "playtime_forever": 493,
+        "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "playtime_forever": 12840,
+        "img_icon_url": "5106abd9c1187a97f23295a0ba9470c94804ec6c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 1222670,
+        "name": "The Sims\u2122 4",
+        "playtime_forever": 118,
+        "img_icon_url": "ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98"
+      },
+      {
+        "appid": 1281930,
+        "name": "tModLoader",
+        "playtime_forever": 1970,
+        "img_icon_url": "e8a125078a31b8475994e8ce4d8d6fdd6becc131"
+      },
+      {
+        "appid": 1286830,
+        "name": "STAR WARS\u2122: The Old Republic\u2122",
+        "playtime_forever": 29,
+        "img_icon_url": "cee1e2970e9535767d963bf3c2c4011adb100609",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1562260,
+        "name": "Camping Simulator: The Squad",
+        "playtime_forever": 36,
+        "img_icon_url": "482fd3791cd4105dd4830e8a7008bdc2ca9b68d5",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1714040,
+        "name": "Super Auto Pets",
+        "playtime_forever": 25,
+        "img_icon_url": "741a65b9af8572a8bffe15fe50ca2e35479d1526"
+      },
+      {
+        "appid": 1716740,
+        "name": "Starfield",
+        "playtime_2weeks": 3,
+        "playtime_forever": 7200,
+        "img_icon_url": "b4d5828937b2d29b875405dce97bbae0a5d01bbe",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1808500,
+        "name": "ARC Raiders",
+        "playtime_2weeks": 3066,
+        "playtime_forever": 4116,
+        "img_icon_url": "c284e73b6f3321864805d66f99924a0da9f0b219",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1938090,
+        "name": "Call of Duty\u00ae",
+        "playtime_forever": 16395,
+        "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_forever": 929,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2551020,
+        "name": "One-armed robber",
+        "playtime_forever": 7,
+        "img_icon_url": "810402b02588c37cc459b1a39896ab9377ba616a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2709570,
+        "name": "Supermarket Together",
+        "playtime_forever": 8,
+        "img_icon_url": "df024275a7ba53c79008b45c0d74b4a2e6a2069b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_forever": 47,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3164500,
+        "name": "Schedule I",
+        "playtime_forever": 4130,
+        "img_icon_url": "3d9f9ed56cb6e1ba995883207290c39674e9c411",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 0,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3405340,
+        "name": "Megabonk",
+        "playtime_forever": 225,
+        "img_icon_url": "8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 3595230,
+        "name": "Call of Duty\u00ae: Modern Warfare\u00ae II",
+        "playtime_forever": 0,
+        "img_icon_url": "4e557bc86b950518cf3d8bd8ebec5f91d867bb9b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}

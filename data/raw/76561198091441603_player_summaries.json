@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198091441603",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Your Lord and Savior\u2122",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/pioneers85/",
+        "avatar": "https://avatars.steamstatic.com/cfda02648569a2de009e182a59c00e21f21fa7ef.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/cfda02648569a2de009e182a59c00e21f21fa7ef_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/cfda02648569a2de009e182a59c00e21f21fa7ef_full.jpg",
+        "avatarhash": "cfda02648569a2de009e182a59c00e21f21fa7ef",
+        "personastate": 0,
+        "realname": "Danny",
+        "primaryclanid": "103582791438104638",
+        "timecreated": 1368737906,
+        "personastateflags": 0,
+        "loccountrycode": "US"
+      }
+    ]
+  }
+}

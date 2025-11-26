@@ -1,0 +1,28 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198175695045",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "\u12a5\u130d\u12da\u12a0\u1265\u1214\u122d \u1290\u134d\u1233",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/adjufaseulfj/",
+        "avatar": "https://avatars.steamstatic.com/b3975cd0f0ce4545f672a6aa15b6f041d6f7399e.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/b3975cd0f0ce4545f672a6aa15b6f041d6f7399e_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/b3975cd0f0ce4545f672a6aa15b6f041d6f7399e_full.jpg",
+        "avatarhash": "b3975cd0f0ce4545f672a6aa15b6f041d6f7399e",
+        "lastlogoff": 1764064763,
+        "personastate": 1,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1422149776,
+        "personastateflags": 0,
+        "gameextrainfo": "Counter-Strike 2",
+        "gameid": "730",
+        "loccountrycode": "NE",
+        "locstatecode": "07",
+        "loccityid": 29683
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198352712846",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "BOT Nate",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/nathanamercier/",
+        "avatar": "https://avatars.steamstatic.com/7ec451af83077153115d216131d9a16b761dc83a.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/7ec451af83077153115d216131d9a16b761dc83a_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/7ec451af83077153115d216131d9a16b761dc83a_full.jpg",
+        "avatarhash": "7ec451af83077153115d216131d9a16b761dc83a",
+        "lastlogoff": 1763792181,
+        "personastate": 0,
+        "realname": "Nate",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1482276487,
+        "personastateflags": 0,
+        "loccountrycode": "CA"
+      }
+    ]
+  }
+}

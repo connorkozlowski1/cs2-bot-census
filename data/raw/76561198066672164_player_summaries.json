@@ -1,0 +1,22 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198066672164",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Xpert_Killa006",
+        "profileurl": "https://steamcommunity.com/profiles/76561198066672164/",
+        "avatar": "https://avatars.steamstatic.com/7ffb87d6d6a11c753569e84b70893dc9d5656cec.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/7ffb87d6d6a11c753569e84b70893dc9d5656cec_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/7ffb87d6d6a11c753569e84b70893dc9d5656cec_full.jpg",
+        "avatarhash": "7ffb87d6d6a11c753569e84b70893dc9d5656cec",
+        "personastate": 0,
+        "realname": "Jason",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1341598517,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

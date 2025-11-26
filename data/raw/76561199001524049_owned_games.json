@@ -1,0 +1,109 @@
+{
+  "response": {
+    "game_count": 13,
+    "games": [
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 0,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 35140,
+        "name": "Batman: Arkham Asylum GOTY Edition",
+        "playtime_forever": 0,
+        "img_icon_url": "e52f91ecb0d3f20263e96fe188de1bcc8c91643e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 0,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 200260,
+        "name": "Batman: Arkham City GOTY",
+        "playtime_forever": 0,
+        "img_icon_url": "746ecf3ce44b2525eb7ad643e76a3b60913d2662",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 208650,
+        "name": "Batman\u2122: Arkham Knight",
+        "playtime_forever": 0,
+        "img_icon_url": "f6c2ce13796844750dfbd01685fb009eeac4bf70",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 234630,
+        "name": "Project CARS",
+        "playtime_forever": 0,
+        "img_icon_url": "3817b4b626ac700dfa4266a3888f8e4d1ca03c7a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 0,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege X",
+        "playtime_forever": 0,
+        "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "playtime_forever": 0,
+        "img_icon_url": "67b15e2336311b4b4f1eb5c802af0c0dbe644195",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 603850,
+        "name": "Age of History II",
+        "playtime_forever": 0,
+        "img_icon_url": "70a6108718bc4fa8aa0155fcfce6e64d8607b93a",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "20deaf466474f76f2ffdb345fe56f40fe3af74c0"
+      },
+      {
+        "appid": 1237950,
+        "name": "STAR WARS\u2122 Battlefront\u2122 II",
+        "playtime_forever": 0,
+        "img_icon_url": "dbdd20f60579c3695427801a7b8d9844cf3e428b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1904540,
+        "name": "Football Manager 2023",
+        "playtime_forever": 0,
+        "img_icon_url": "8458f3b0453f1cd70f990161256eb8dfb16967d7",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

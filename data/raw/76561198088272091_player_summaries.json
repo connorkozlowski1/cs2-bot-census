@@ -1,0 +1,26 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198088272091",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Golden Goose",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/_GoldenGoose/",
+        "avatar": "https://avatars.steamstatic.com/231bdedda43e38347bc46bbf3e3c3ee15dc42aff.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/231bdedda43e38347bc46bbf3e3c3ee15dc42aff_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/231bdedda43e38347bc46bbf3e3c3ee15dc42aff_full.jpg",
+        "avatarhash": "231bdedda43e38347bc46bbf3e3c3ee15dc42aff",
+        "personastate": 3,
+        "realname": "Timmy Witkowski",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1365210035,
+        "personastateflags": 0,
+        "loccountrycode": "US",
+        "locstatecode": "IL",
+        "loccityid": 1216
+      }
+    ]
+  }
+}

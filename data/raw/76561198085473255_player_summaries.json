@@ -1,0 +1,18 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198085473255",
+        "communityvisibilitystate": 1,
+        "profilestate": 1,
+        "personaname": "Thehahnandonly",
+        "profileurl": "https://steamcommunity.com/profiles/76561198085473255/",
+        "avatar": "https://avatars.steamstatic.com/98e8328675459d1f47017fd0dc8232e329d4f511.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/98e8328675459d1f47017fd0dc8232e329d4f511_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/98e8328675459d1f47017fd0dc8232e329d4f511_full.jpg",
+        "avatarhash": "98e8328675459d1f47017fd0dc8232e329d4f511",
+        "personastate": 0
+      }
+    ]
+  }
+}

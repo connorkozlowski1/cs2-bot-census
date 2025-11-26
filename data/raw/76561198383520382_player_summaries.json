@@ -1,0 +1,26 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198383520382",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "prikum",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561198383520382/",
+        "avatar": "https://avatars.steamstatic.com/a20397ed1bb82b1d3bc207150f000f2c9c5d6c03.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/a20397ed1bb82b1d3bc207150f000f2c9c5d6c03_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/a20397ed1bb82b1d3bc207150f000f2c9c5d6c03_full.jpg",
+        "avatarhash": "a20397ed1bb82b1d3bc207150f000f2c9c5d6c03",
+        "lastlogoff": 1741050172,
+        "personastate": 0,
+        "realname": "toe",
+        "primaryclanid": "103582791454612345",
+        "timecreated": 1493157999,
+        "personastateflags": 0,
+        "loccountrycode": "NR",
+        "locstatecode": "08"
+      }
+    ]
+  }
+}

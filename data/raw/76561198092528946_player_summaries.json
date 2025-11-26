@@ -1,0 +1,19 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198092528946",
+        "communityvisibilitystate": 2,
+        "profilestate": 1,
+        "personaname": "Johnny Spagooza",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/jfeldner/",
+        "avatar": "https://avatars.steamstatic.com/617a19a18e7d9d9b2b566df7204f58d0bb2f8884.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/617a19a18e7d9d9b2b566df7204f58d0bb2f8884_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/617a19a18e7d9d9b2b566df7204f58d0bb2f8884_full.jpg",
+        "avatarhash": "617a19a18e7d9d9b2b566df7204f58d0bb2f8884",
+        "personastate": 0
+      }
+    ]
+  }
+}

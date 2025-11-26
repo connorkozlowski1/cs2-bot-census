@@ -1,0 +1,492 @@
+{
+  "response": {
+    "game_count": 57,
+    "games": [
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 172,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 570,
+        "name": "Dota 2",
+        "playtime_forever": 402,
+        "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 767,
+        "playtime_forever": 362203,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 34330,
+        "name": "Total War: SHOGUN 2",
+        "playtime_forever": 0,
+        "img_icon_url": "2fa97296a62daf0329b3867ad6837a2289229fbb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "playtime_forever": 0,
+        "img_icon_url": "858961e95fbf869f136e1770d586e0caefd4cfac",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 200710,
+        "name": "Torchlight II",
+        "playtime_forever": 1861,
+        "img_icon_url": "40776762bb63c4eded37d1a2b4431a90aa57ea84",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 729,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "playtime_forever": 843,
+        "img_icon_url": "adc18a4fc9adc0330144b76d61cbda68bb2394a0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 231430,
+        "name": "Company of Heroes 2",
+        "playtime_forever": 8,
+        "img_icon_url": "5e7e1866fb4f33a17393b0441cd1c750dbd91c5f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 241560,
+        "name": "The Crew",
+        "playtime_forever": 248,
+        "img_icon_url": "bab90962a5191e62e7be9784f9832441f6a88f89"
+      },
+      {
+        "appid": 251570,
+        "name": "7 Days to Die",
+        "playtime_forever": 199,
+        "img_icon_url": "f6515dd177b2992aebcb563151fbe836a600f364",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "playtime_forever": 8637,
+        "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 254440,
+        "name": "Pool Nation",
+        "playtime_forever": 521,
+        "img_icon_url": "811b1863d4130637839c75f9cc779e0595c9a855",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "playtime_forever": 61351,
+        "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "playtime_forever": 90,
+        "img_icon_url": "78d0ff98b67851f24539cdf2402cf147679134f4",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          5
+        ]
+      },
+      {
+        "appid": 295110,
+        "name": "Just Survive",
+        "playtime_forever": 16160,
+        "img_icon_url": "62defe57b364721d8947761c9998643ae5afaad1",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 310950,
+        "name": "Street Fighter V",
+        "playtime_forever": 1920,
+        "img_icon_url": "ea0db9dc61e606b544fa30d21d31354998ca1f95",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 354290,
+        "name": "LoveBeat",
+        "playtime_forever": 998,
+        "img_icon_url": "61d4c532eb1b9e6d54297b15d4a86ab1387f4a87"
+      },
+      {
+        "appid": 360170,
+        "name": "How to Survive 2",
+        "playtime_forever": 687,
+        "img_icon_url": "ec2bf917af3fd4ab5a030b3f4d2bca0b9ef4a94e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 362300,
+        "name": "Just Survive Test Server",
+        "playtime_forever": 0,
+        "img_icon_url": "ae46a0a74a41c21f2d490dde824f552c20920761"
+      },
+      {
+        "appid": 364930,
+        "name": "Koi-Koi Japan [Hanafuda playing cards]",
+        "playtime_forever": 3518,
+        "img_icon_url": "561fee36d2db234a95c2a0ce59272d6ba0338ec0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 365590,
+        "name": "Tom Clancy's The Division",
+        "playtime_forever": 13607,
+        "img_icon_url": "93be9eec9ea09ee3cbc0f04de58f1c87a24b18f5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          5
+        ]
+      },
+      {
+        "appid": 368420,
+        "name": "Mirage: Arcane Warfare",
+        "playtime_forever": 56,
+        "img_icon_url": "c0b61f2a0d0499217b8b947eab1a995966dfe3c8"
+      },
+      {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "playtime_forever": 332,
+        "img_icon_url": "aa152097a700fd6f4707397ce41794ea30874790",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 384190,
+        "name": "ABZ\u00db",
+        "playtime_forever": 341,
+        "img_icon_url": "322d0d5990e35b3bdcd29e45982e110dd4a158ba",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 391220,
+        "name": "Rise of the Tomb Raider",
+        "playtime_forever": 193,
+        "img_icon_url": "0b8a37f32ed2b7c934be8aa94d53f71e274c6497",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 393380,
+        "name": "Squad",
+        "playtime_forever": 0,
+        "img_icon_url": "eb66a8cb52165274c84cae6526205065d13119d5",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "playtime_forever": 107,
+        "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "playtime_forever": 122769,
+        "img_icon_url": "aee7491abfd812e2fbb4ec3326ad5f4b85c8137a",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 439700,
+        "name": "H1Z1: Test Server",
+        "playtime_forever": 77,
+        "img_icon_url": "d0e924622be8ce1e9920197f397365bb1e6bca5f"
+      },
+      {
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "playtime_forever": 0,
+        "img_icon_url": "399859f8bdaeef066f14029d5f1910960545fbd9",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 441380,
+        "name": "PAC-MAN\u2122 CHAMPIONSHIP EDITION 2",
+        "playtime_forever": 0,
+        "img_icon_url": "782fe2de0839f6898e2dc1d220f9ed229563a9d3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 468920,
+        "name": "Ultimate Fishing\u00ae Simulator",
+        "playtime_forever": 1925,
+        "img_icon_url": "c1cb7ae4c5e6c3a3126b5daf9729f8b8a5a72672",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 495420,
+        "name": "State of Decay 2",
+        "playtime_forever": 40,
+        "img_icon_url": "d6d418d682accfb51ee089ea506587c9c924989b",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 524440,
+        "name": "Tom Clancy's The Division PTS",
+        "playtime_forever": 0,
+        "img_icon_url": "93be9eec9ea09ee3cbc0f04de58f1c87a24b18f5"
+      },
+      {
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "playtime_forever": 261,
+        "img_icon_url": "a671f2ddf7359beba9702ac097baf6d50cb07202",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 563560,
+        "name": "Alien Swarm: Reactive Drop",
+        "playtime_forever": 171,
+        "img_icon_url": "3f30d5d196532aa1d79dbf133f067a38769178dc",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "playtime_2weeks": 1942,
+        "playtime_forever": 188004,
+        "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 593880,
+        "name": "Street Fighter V NEW CFN Beta",
+        "playtime_forever": 46,
+        "img_icon_url": "ea0db9dc61e606b544fa30d21d31354998ca1f95"
+      },
+      {
+        "appid": 638070,
+        "name": "Murderous Pursuits",
+        "playtime_forever": 89,
+        "img_icon_url": "5e7b5bfa87997037ace85ae60883309a8cb0ffbf",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 640590,
+        "name": "The LEGO\u00ae NINJAGO\u00ae Movie Video Game",
+        "playtime_forever": 0,
+        "img_icon_url": "e73b26c11ea3dd22910565c0621a3f511ea943d3",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 648800,
+        "name": "Raft",
+        "playtime_forever": 38,
+        "img_icon_url": "6a9ae357c4133b1b631b520edd25b1974f3afb68",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 766570,
+        "name": "Russian Fishing 4",
+        "playtime_forever": 60363,
+        "img_icon_url": "3b374139de62caed7c8f2df0a57f671b7fa7dffb",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 774941,
+        "name": "Squad - Public Testing",
+        "playtime_forever": 0,
+        "img_icon_url": "6a9ee44c92c5ca7ddacf0d56bb7d5720961da0f8"
+      },
+      {
+        "appid": 931180,
+        "name": "Conan Exiles - Public Beta Client",
+        "playtime_forever": 0,
+        "img_icon_url": "67a32c9bdd0738df619162c70bdebfe8a735abec"
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 259,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1003590,
+        "name": "Tetris\u00ae Effect: Connected",
+        "playtime_forever": 66,
+        "img_icon_url": "a56de7a86218528ff841a9a1322ce88d735b1156",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1238810,
+        "name": "Battlefield\u2122 V",
+        "playtime_forever": 307,
+        "img_icon_url": "23ded6a957b5ec7525679c2e7bdac90c0653dbc8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1238840,
+        "name": "Battlefield\u2122 1",
+        "playtime_forever": 0,
+        "img_icon_url": "325c78f6940b57a43b65468d2dc10e22601b0ec5",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1329410,
+        "name": "\u96c0\u9b42\u9ebb\u5c06(MahjongSoul)",
+        "playtime_forever": 717,
+        "img_icon_url": "9403eb9b90dc6f036dde903a669d70dab3b65e12"
+      },
+      {
+        "appid": 1938090,
+        "name": "Call of Duty\u00ae",
+        "playtime_forever": 69,
+        "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1966720,
+        "name": "Lethal Company",
+        "playtime_forever": 267,
+        "img_icon_url": "8393f321a62a9ef0be762c81565d2caea4fb7da6",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2016940,
+        "name": "O2Jam",
+        "playtime_forever": 51,
+        "img_icon_url": "dfc157e70aaae58bd24ebc23994ad0d5990ca9e3"
+      },
+      {
+        "appid": 2290180,
+        "name": "Riders Republic",
+        "playtime_forever": 76,
+        "img_icon_url": "7f050062aecbec623b59b8511caee941fd7f26ba",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2344520,
+        "name": "Diablo\u00ae IV",
+        "playtime_forever": 19459,
+        "img_icon_url": "15d3e861875701ec9b01f9d9b606c7c8379e6115",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "playtime_forever": 119,
+        "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3777060,
+        "name": "Gold Miner:Classic Edition",
+        "playtime_forever": 95,
+        "img_icon_url": "0a6c3c2ff39c01ed1e386af19f03f6559c132771",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      }
+    ]
+  }
+}

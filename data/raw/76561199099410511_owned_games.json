@@ -1,0 +1,54 @@
+{
+  "response": {
+    "game_count": 6,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 16682,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "playtime_forever": 2633,
+        "img_icon_url": "adc18a4fc9adc0330144b76d61cbda68bb2394a0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 380600,
+        "name": "Fishing Planet",
+        "playtime_forever": 558,
+        "img_icon_url": "df6785140de8c32f6baec7fd7fd74c5823459250",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 398710,
+        "name": "Timberman",
+        "playtime_forever": 678,
+        "img_icon_url": "fa15e1b976f0e202c763c176c849a98e03d36559",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 6471,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1029550,
+        "name": "Torque Drift",
+        "playtime_forever": 562,
+        "img_icon_url": "82176fb53d06ddafaf97976323f4023a18c435d2",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

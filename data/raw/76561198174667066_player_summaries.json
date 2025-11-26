@@ -1,0 +1,25 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198174667066",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Dong Lord",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561198174667066/",
+        "avatar": "https://avatars.steamstatic.com/02feefbfd93725c2d5b8b051cb122cf464a2f1a2.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/02feefbfd93725c2d5b8b051cb122cf464a2f1a2_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/02feefbfd93725c2d5b8b051cb122cf464a2f1a2_full.jpg",
+        "avatarhash": "02feefbfd93725c2d5b8b051cb122cf464a2f1a2",
+        "lastlogoff": 1761276364,
+        "personastate": 0,
+        "realname": "Dong lord",
+        "primaryclanid": "103582791436330543",
+        "timecreated": 1421645539,
+        "personastateflags": 0,
+        "loccountrycode": "AU"
+      }
+    ]
+  }
+}

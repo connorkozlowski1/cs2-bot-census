@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198062794652",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "mud",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/stricks420/",
+        "avatar": "https://avatars.steamstatic.com/1c6cee08f9db3e4019624f89b0e0c94369c2e04b.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/1c6cee08f9db3e4019624f89b0e0c94369c2e04b_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/1c6cee08f9db3e4019624f89b0e0c94369c2e04b_full.jpg",
+        "avatarhash": "1c6cee08f9db3e4019624f89b0e0c94369c2e04b",
+        "personastate": 1,
+        "primaryclanid": "103582791439750447",
+        "timecreated": 1335650169,
+        "personastateflags": 0,
+        "loccountrycode": "GS"
+      }
+    ]
+  }
+}

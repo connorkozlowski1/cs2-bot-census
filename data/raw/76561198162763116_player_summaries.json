@@ -1,0 +1,20 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198162763116",
+        "communityvisibilitystate": 1,
+        "profilestate": 1,
+        "personaname": "starboy",
+        "profileurl": "https://steamcommunity.com/id/qylo/",
+        "avatar": "https://avatars.steamstatic.com/633f2b5ac548298db8c4c806db4fe39a90d7b0b9.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/633f2b5ac548298db8c4c806db4fe39a90d7b0b9_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/633f2b5ac548298db8c4c806db4fe39a90d7b0b9_full.jpg",
+        "avatarhash": "633f2b5ac548298db8c4c806db4fe39a90d7b0b9",
+        "lastlogoff": 1762624587,
+        "personastate": 0,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198452493480",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "EngaVv",
+        "profileurl": "https://steamcommunity.com/id/guaishoot/",
+        "avatar": "https://avatars.steamstatic.com/6cc2b0ae050534d8775fe6046a4238b2cb485d27.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/6cc2b0ae050534d8775fe6046a4238b2cb485d27_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/6cc2b0ae050534d8775fe6046a4238b2cb485d27_full.jpg",
+        "avatarhash": "6cc2b0ae050534d8775fe6046a4238b2cb485d27",
+        "personastate": 0,
+        "primaryclanid": "103582791469303677",
+        "timecreated": 1512200438,
+        "personastateflags": 0,
+        "loccountrycode": "CN"
+      }
+    ]
+  }
+}

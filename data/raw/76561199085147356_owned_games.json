@@ -1,0 +1,82 @@
+{
+  "response": {
+    "game_count": 8,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 0,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "playtime_forever": 0,
+        "img_icon_url": "a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "playtime_forever": 0,
+        "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1238810,
+        "name": "Battlefield\u2122 V",
+        "playtime_forever": 0,
+        "img_icon_url": "23ded6a957b5ec7525679c2e7bdac90c0653dbc8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 1260320,
+        "name": "Party Animals",
+        "playtime_forever": 0,
+        "img_icon_url": "868cd2d22c96076658ff5b572c4dc790c200de7e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2208570,
+        "name": "Dark Hours",
+        "playtime_forever": 0,
+        "img_icon_url": "092ab63a14b24564ca7865452c002605f55d7905",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "playtime_forever": 0,
+        "img_icon_url": "5342338ad1fd3561c1ed8c6d2ed4ae0e6ada2e9c",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 3568460,
+        "name": "MustScream",
+        "playtime_forever": 0,
+        "img_icon_url": "f5c6f87fcae2903e4bd568589c82916df1bf3a79",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

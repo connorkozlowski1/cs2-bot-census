@@ -1,0 +1,146 @@
+{
+  "response": {
+    "game_count": 18,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 1985,
+        "playtime_forever": 91134,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 248570,
+        "name": "Toribash",
+        "playtime_forever": 180,
+        "img_icon_url": "7642e8aaf8d97a5fca68d749ed5cdd548cbb6d35",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 326460,
+        "name": "ShellShock Live",
+        "playtime_forever": 1398,
+        "img_icon_url": "bebf5e02b861d7d435fbf96cf059be95415ba5a9",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 667870,
+        "name": "MINDNIGHT",
+        "playtime_forever": 1230,
+        "img_icon_url": "39a095dfe905bda9bf568f2e95f0bcaf0bd15816",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 670290,
+        "name": "Real Pool 3D - Poolians",
+        "playtime_forever": 110,
+        "img_icon_url": "b74acc3e1996c8cb9ce9e2933c190575fa0be457",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 714010,
+        "name": "Aimlabs",
+        "playtime_forever": 221,
+        "img_icon_url": "15347de11efc127539c388e585af9e92d10d5189",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 960090,
+        "name": "Bloons TD 6",
+        "playtime_forever": 7,
+        "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1128810,
+        "name": "RISK: Global Domination",
+        "playtime_forever": 37,
+        "img_icon_url": "ecc6f7301e88a88e93edec1a3d4ddcc7ec9c5335",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1173370,
+        "name": "Slapshot: Rebound",
+        "playtime_forever": 26,
+        "img_icon_url": "674676fb4ba48e60020869d8f5fcef1e3c1a3014",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1422450,
+        "name": "Deadlock",
+        "playtime_forever": 0,
+        "img_icon_url": "f6da1420a173324d49bcd470fa3eee781ad0fa5e"
+      },
+      {
+        "appid": 1869590,
+        "name": "Omega Strikers",
+        "playtime_forever": 9,
+        "img_icon_url": "5e07146c770962edaf303e907447d63538d67948"
+      },
+      {
+        "appid": 1966720,
+        "name": "Lethal Company",
+        "playtime_forever": 616,
+        "img_icon_url": "8393f321a62a9ef0be762c81565d2caea4fb7da6",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_forever": 14,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2357570,
+        "name": "Overwatch\u00ae 2",
+        "playtime_2weeks": 56,
+        "playtime_forever": 473,
+        "img_icon_url": "da42bd294c941d5947b1bc2c2b2efa1313d36a91",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2379780,
+        "name": "Balatro",
+        "playtime_forever": 2505,
+        "img_icon_url": "b6018068070ab0e23561694c11f7950dd6f4c752",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2386720,
+        "name": "STRAFTAT",
+        "playtime_forever": 46,
+        "img_icon_url": "b068dd4be06a24096030295d4790caa23ff7de59",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 2567870,
+        "name": "Chained Together",
+        "playtime_forever": 781,
+        "img_icon_url": "231b8f624ff26721431fe5749fa5ab5bccd75ff4",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2918300,
+        "name": "Splitgate 2 Beta",
+        "playtime_forever": 543,
+        "img_icon_url": "35df7bc230fc4d12227ae194fb587a39c499c0b4",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

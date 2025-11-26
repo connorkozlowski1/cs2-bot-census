@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198306431339",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "koz",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/furyattack_/",
+        "avatar": "https://avatars.steamstatic.com/1cfe2aa1edb2d14df91a1bdce21c1a7827500224.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/1cfe2aa1edb2d14df91a1bdce21c1a7827500224_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/1cfe2aa1edb2d14df91a1bdce21c1a7827500224_full.jpg",
+        "avatarhash": "1cfe2aa1edb2d14df91a1bdce21c1a7827500224",
+        "lastlogoff": 1761347419,
+        "personastate": 0,
+        "primaryclanid": "103582791438529221",
+        "timecreated": 1463796546,
+        "personastateflags": 0,
+        "loccountrycode": "UM"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "response": {
+    "game_count": 13,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 67308,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 67308,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1761276104,
+        "content_descriptorids": [
+          2,
+          5
+        ],
+        "playtime_disconnected": 55
+      },
+      {
+        "appid": 945360,
+        "name": "Among Us",
+        "playtime_forever": 753,
+        "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 753,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1602013981,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 1285190,
+        "name": "Borderlands\u00ae 4",
+        "playtime_2weeks": 137,
+        "playtime_forever": 4865,
+        "img_icon_url": "9a7ba760c036bb0a73310dc9731d7a84a329b921",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 4865,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1763521455,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ],
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 1808500,
+        "name": "ARC Raiders",
+        "playtime_2weeks": 3448,
+        "playtime_forever": 5249,
+        "img_icon_url": "c284e73b6f3321864805d66f99924a0da9f0b219",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 5249,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1764057568,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 2073850,
+        "name": "THE FINALS",
+        "playtime_forever": 973,
+        "img_icon_url": "9532db560dca3b4982f4af3f5981b6b2ce2a6909",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 973,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1748151299,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 2076040,
+        "name": "THE FINALS PLAYTEST",
+        "playtime_forever": 28,
+        "img_icon_url": "5c445c6a035d0e462068ec4d164e2224a2e7cc94",
+        "playtime_windows_forever": 28,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1698802143,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 2709570,
+        "name": "Supermarket Together",
+        "playtime_forever": 61,
+        "img_icon_url": "df024275a7ba53c79008b45c0d74b4a2e6a2069b",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 61,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1747116018,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 2767030,
+        "name": "Marvel Rivals",
+        "playtime_forever": 48,
+        "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 48,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1738052268,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 3099020,
+        "name": "Fast Food Simulator: Prologue",
+        "playtime_forever": 35,
+        "img_icon_url": "15ed340ecea42c62e23b8c38c610959ebd275473",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 35,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1733384518,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 3164500,
+        "name": "Schedule I",
+        "playtime_forever": 3330,
+        "img_icon_url": "3d9f9ed56cb6e1ba995883207290c39674e9c411",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 3330,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1744346621,
+        "content_descriptorids": [
+          5
+        ],
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 3205720,
+        "name": "Schedule I: Free Sample",
+        "playtime_forever": 31,
+        "img_icon_url": "3d9f9ed56cb6e1ba995883207290c39674e9c411",
+        "playtime_windows_forever": 31,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1743382432,
+        "content_descriptorids": [
+          5
+        ],
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 3354750,
+        "name": "skate.",
+        "playtime_forever": 8,
+        "img_icon_url": "741cefdfeabf38b28288dab2cdbcf848995b85cb",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 8,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1758507381,
+        "playtime_disconnected": 0
+      },
+      {
+        "appid": 3405340,
+        "name": "Megabonk",
+        "playtime_2weeks": 8,
+        "playtime_forever": 8004,
+        "img_icon_url": "8e0ff36cdb1076d69347a2796c7ef5ee18b2fee8",
+        "has_community_visible_stats": true,
+        "playtime_windows_forever": 8004,
+        "playtime_mac_forever": 0,
+        "playtime_linux_forever": 0,
+        "playtime_deck_forever": 0,
+        "rtime_last_played": 1763520821,
+        "playtime_disconnected": 24
+      }
+    ]
+  }
+}

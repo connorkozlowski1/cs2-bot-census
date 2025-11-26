@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198245212968",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "ExuberantRhino",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561198245212968/",
+        "avatar": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b_full.jpg",
+        "avatarhash": "90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b",
+        "lastlogoff": 1763959275,
+        "personastate": 0,
+        "realname": "Rhino",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1439826152,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

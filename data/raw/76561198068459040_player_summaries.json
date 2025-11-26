@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198068459040",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "seanF",
+        "profileurl": "https://steamcommunity.com/profiles/76561198068459040/",
+        "avatar": "https://avatars.steamstatic.com/950f9f3147d4c8530a5072825d01c34ee3f1afa1.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/950f9f3147d4c8530a5072825d01c34ee3f1afa1_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/950f9f3147d4c8530a5072825d01c34ee3f1afa1_full.jpg",
+        "avatarhash": "950f9f3147d4c8530a5072825d01c34ee3f1afa1",
+        "personastate": 1,
+        "realname": "Sean Fleming",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1343781722,
+        "personastateflags": 0,
+        "loccountrycode": "US"
+      }
+    ]
+  }
+}

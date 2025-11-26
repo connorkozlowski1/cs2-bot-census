@@ -1,0 +1,25 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198274192878",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "A.K.A Lee",
+        "profileurl": "https://steamcommunity.com/id/akalee/",
+        "avatar": "https://avatars.steamstatic.com/4ca66d26e3bd592eed6b6efbeb4b88e604e8f201.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/4ca66d26e3bd592eed6b6efbeb4b88e604e8f201_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/4ca66d26e3bd592eed6b6efbeb4b88e604e8f201_full.jpg",
+        "avatarhash": "4ca66d26e3bd592eed6b6efbeb4b88e604e8f201",
+        "personastate": 0,
+        "realname": "\u674e\u661f\u6c60",
+        "primaryclanid": "103582791434716597",
+        "timecreated": 1451764595,
+        "personastateflags": 0,
+        "loccountrycode": "CN",
+        "locstatecode": "08",
+        "loccityid": 10009
+      }
+    ]
+  }
+}

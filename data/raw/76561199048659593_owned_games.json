@@ -1,0 +1,145 @@
+{
+  "response": {
+    "game_count": 17,
+    "games": [
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "playtime_forever": 84,
+        "img_icon_url": "7d5a243f9500d2f8467312822f8af2a2928777ed",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_2weeks": 356,
+        "playtime_forever": 74625,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 204360,
+        "name": "Castle Crashers",
+        "playtime_forever": 205,
+        "img_icon_url": "9b7625f9b70f103397fd0416fd92abb583db8659",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "playtime_forever": 1355,
+        "img_icon_url": "22064646470f4c53388ba87774c7ac10f0a91ffa",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "playtime_forever": 1759,
+        "img_icon_url": "fccb20f309ac5ae05b3cb4576a8a3357edf86f2e",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 304930,
+        "name": "Unturned",
+        "playtime_forever": 25,
+        "img_icon_url": "e18009fb628b35953826efe47dc3be556b689f4c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 324800,
+        "name": "Shadow Warrior 2",
+        "playtime_forever": 88,
+        "img_icon_url": "e5bdde6548d967fb456b33b2674be1c8efc2d9ae",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 369990,
+        "name": "Gremlins, Inc.",
+        "playtime_forever": 242,
+        "img_icon_url": "b09c60a3c63c5feb3a683510883416d9301a6a5b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "playtime_forever": 256,
+        "img_icon_url": "35d1377200084a4034238c05b0c8930451e2fb40",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "playtime_forever": 10,
+        "img_icon_url": "aee7491abfd812e2fbb4ec3326ad5f4b85c8137a",
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "playtime_forever": 4849,
+        "img_icon_url": "6ec147f2d423f435e15eb79b3d82f771913de634",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1162520,
+        "name": "Richman10",
+        "playtime_forever": 702,
+        "img_icon_url": "bb441dfa49bd7a2fed1166971f848db8213c1a6f",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "playtime_forever": 23,
+        "img_icon_url": "3b802d5010d6d5d72c93a8565b260c6042cc9390",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1922560,
+        "name": "Plants vs. Zombies\u2122 Garden Warfare 2: Deluxe Edition",
+        "playtime_forever": 560,
+        "img_icon_url": "fc6f1e8686ad5b42e270ea1ce592e30b5f77ef25",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2141730,
+        "name": "Backrooms: Escape Together",
+        "playtime_forever": 32,
+        "img_icon_url": "d4b430f9594dcad772f320fe8792b2c94cf99e06",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 2216110,
+        "name": "\u67aa\u795e\u51fa\u51fb",
+        "playtime_forever": 0,
+        "img_icon_url": "4e1e5e347a0a1b482988baf801e9484b6027a41f"
+      },
+      {
+        "appid": 2349820,
+        "name": "Hero's Land",
+        "playtime_forever": 357,
+        "img_icon_url": "c72553649bd87491364ca0dcbfbafc090fcd9551",
+        "has_community_visible_stats": true
+      }
+    ]
+  }
+}

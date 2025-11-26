@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198046440923",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "I LOVE AMERICA",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561198046440923/",
+        "avatar": "https://avatars.steamstatic.com/4c6504251493e4cf66a5e059c8395434fce9b87f.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/4c6504251493e4cf66a5e059c8395434fce9b87f_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/4c6504251493e4cf66a5e059c8395434fce9b87f_full.jpg",
+        "avatarhash": "4c6504251493e4cf66a5e059c8395434fce9b87f",
+        "personastate": 0,
+        "realname": "Andy",
+        "primaryclanid": "103582791437646651",
+        "timecreated": 1312581083,
+        "personastateflags": 0,
+        "loccountrycode": "US"
+      }
+    ]
+  }
+}

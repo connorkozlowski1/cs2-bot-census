@@ -1,0 +1,25 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198090605322",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Nails R Biting",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/thiccestO/",
+        "avatar": "https://avatars.steamstatic.com/9e1f3f92d43895449a932cb32a36f2efa912cb29.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/9e1f3f92d43895449a932cb32a36f2efa912cb29_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/9e1f3f92d43895449a932cb32a36f2efa912cb29_full.jpg",
+        "avatarhash": "9e1f3f92d43895449a932cb32a36f2efa912cb29",
+        "personastate": 0,
+        "realname": "Thrumbo Blackborg",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1367727135,
+        "personastateflags": 0,
+        "loccountrycode": "US",
+        "locstatecode": "IL"
+      }
+    ]
+  }
+}

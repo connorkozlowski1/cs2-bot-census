@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198299445609",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Green Bell Pepper",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/profiles/76561198299445609/",
+        "avatar": "https://avatars.steamstatic.com/acd8a43090afc7dd92b3770e486b181b63b01f43.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/acd8a43090afc7dd92b3770e486b181b63b01f43_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/acd8a43090afc7dd92b3770e486b181b63b01f43_full.jpg",
+        "avatarhash": "acd8a43090afc7dd92b3770e486b181b63b01f43",
+        "lastlogoff": 1599705124,
+        "personastate": 0,
+        "realname": "Gangey",
+        "primaryclanid": "103582791455136553",
+        "timecreated": 1460901589,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

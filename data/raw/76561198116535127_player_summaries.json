@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198116535127",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "quinnifred",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/quinnifred/",
+        "avatar": "https://avatars.steamstatic.com/5f562674e848ca789860fe0dc6ca6bb008bd63ee.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/5f562674e848ca789860fe0dc6ca6bb008bd63ee_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/5f562674e848ca789860fe0dc6ca6bb008bd63ee_full.jpg",
+        "avatarhash": "5f562674e848ca789860fe0dc6ca6bb008bd63ee",
+        "lastlogoff": 1763952991,
+        "personastate": 0,
+        "primaryclanid": "103582791460561477",
+        "timecreated": 1385847930,
+        "personastateflags": 0,
+        "loccountrycode": "PM"
+      }
+    ]
+  }
+}

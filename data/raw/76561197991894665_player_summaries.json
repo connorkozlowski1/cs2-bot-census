@@ -1,0 +1,26 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561197991894665",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "BadGraphic",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/Bad_Graphic/",
+        "avatar": "https://avatars.steamstatic.com/6cd4df5e74cab2e544337b214cfb8e1f4f511de4.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/6cd4df5e74cab2e544337b214cfb8e1f4f511de4_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/6cd4df5e74cab2e544337b214cfb8e1f4f511de4_full.jpg",
+        "avatarhash": "6cd4df5e74cab2e544337b214cfb8e1f4f511de4",
+        "personastate": 0,
+        "realname": "Nicholas",
+        "primaryclanid": "103582791437043751",
+        "timecreated": 1187310973,
+        "personastateflags": 0,
+        "loccountrycode": "US",
+        "locstatecode": "MO",
+        "loccityid": 2281
+      }
+    ]
+  }
+}

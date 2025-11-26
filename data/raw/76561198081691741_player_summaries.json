@@ -1,0 +1,26 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198081691741",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Pudy",
+        "profileurl": "https://steamcommunity.com/id/xpudy/",
+        "avatar": "https://avatars.steamstatic.com/0c5c04bd3e1fb1659ea7d45c4173083f84e3cad6.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/0c5c04bd3e1fb1659ea7d45c4173083f84e3cad6_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/0c5c04bd3e1fb1659ea7d45c4173083f84e3cad6_full.jpg",
+        "avatarhash": "0c5c04bd3e1fb1659ea7d45c4173083f84e3cad6",
+        "lastlogoff": 1637856871,
+        "personastate": 0,
+        "realname": "Kevin",
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1358463842,
+        "personastateflags": 0,
+        "loccountrycode": "US",
+        "locstatecode": "MA",
+        "loccityid": 1860
+      }
+    ]
+  }
+}

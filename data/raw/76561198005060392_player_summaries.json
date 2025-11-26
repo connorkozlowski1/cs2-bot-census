@@ -1,0 +1,23 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198005060392",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Lekgoloblood",
+        "profileurl": "https://steamcommunity.com/profiles/76561198005060392/",
+        "avatar": "https://avatars.steamstatic.com/c5da13940a3d4a9e6b84a5d7dc8527e57dcfe942.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/c5da13940a3d4a9e6b84a5d7dc8527e57dcfe942_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/c5da13940a3d4a9e6b84a5d7dc8527e57dcfe942_full.jpg",
+        "avatarhash": "c5da13940a3d4a9e6b84a5d7dc8527e57dcfe942",
+        "personastate": 1,
+        "primaryclanid": "103582791436165024",
+        "timecreated": 1231618732,
+        "personastateflags": 0,
+        "gameextrainfo": "DRAGON BALL GEKISHIN SQUADRA",
+        "gameid": "2072560"
+      }
+    ]
+  }
+}

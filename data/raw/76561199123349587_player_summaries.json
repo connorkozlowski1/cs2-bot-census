@@ -1,0 +1,22 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561199123349587",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "\u6885\u5ddd\u9177\u5b50",
+        "commentpermission": 1,
+        "profileurl": "https://steamcommunity.com/id/a3jsd-nlse/",
+        "avatar": "https://avatars.steamstatic.com/653ad6f31dc67f0562c88287ce05a6316e6479ae.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/653ad6f31dc67f0562c88287ce05a6316e6479ae_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/653ad6f31dc67f0562c88287ce05a6316e6479ae_full.jpg",
+        "avatarhash": "653ad6f31dc67f0562c88287ce05a6316e6479ae",
+        "personastate": 0,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1609104834,
+        "personastateflags": 0
+      }
+    ]
+  }
+}

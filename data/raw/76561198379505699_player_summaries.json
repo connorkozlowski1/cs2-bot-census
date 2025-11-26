@@ -1,0 +1,24 @@
+{
+  "response": {
+    "players": [
+      {
+        "steamid": "76561198379505699",
+        "communityvisibilitystate": 3,
+        "profilestate": 1,
+        "personaname": "Luto",
+        "commentpermission": 2,
+        "profileurl": "https://steamcommunity.com/id/RealLuto/",
+        "avatar": "https://avatars.steamstatic.com/cd0d2b581d7e20be331a64b3a0daf9d26985ea3e.jpg",
+        "avatarmedium": "https://avatars.steamstatic.com/cd0d2b581d7e20be331a64b3a0daf9d26985ea3e_medium.jpg",
+        "avatarfull": "https://avatars.steamstatic.com/cd0d2b581d7e20be331a64b3a0daf9d26985ea3e_full.jpg",
+        "avatarhash": "cd0d2b581d7e20be331a64b3a0daf9d26985ea3e",
+        "lastlogoff": 1764115414,
+        "personastate": 0,
+        "primaryclanid": "103582791429521408",
+        "timecreated": 1491678631,
+        "personastateflags": 0,
+        "loccountrycode": "VA"
+      }
+    ]
+  }
+}
