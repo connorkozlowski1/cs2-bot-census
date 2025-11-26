@@ -24,10 +24,11 @@ Estimate the share of bot accounts in Counter-Strike 2 using public match and ac
 
 
 ## Environment
-
 - Python 3.11+
-- Steam Web API key stored in a `.env` file:
+- Copy the template env file:
 
-```env
-STEAM_API_KEY=your_key_here
+      copy .env.example .env
 
+- Then open `.env` and set:
+
+      STEAM_API_KEY=your_real_steam_api_key_here
