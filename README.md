@@ -4,7 +4,7 @@ Estimate the share of bot accounts in Counter-Strike 2 using public match and ac
 
 ## Objectives
 
-- Collect a large sample of public CS2 matches and player accounts.
+- Collect a large sample of CS2 player accounts.
 - Engineer behavioral and account-level features.
 - Use rules + anomaly detection to estimate which accounts are likely bots.
 - Publish:
@@ -15,8 +15,8 @@ Estimate the share of bot accounts in Counter-Strike 2 using public match and ac
 ## Status
 
 - [x] Project spec
-- [ ] Data source exploration
-- [ ] Data ingestion pipeline
+- [x] Data source exploration
+- [x] Data ingestion pipeline
 - [ ] Feature engineering
 - [ ] Modeling + evaluation
 - [ ] Dashboard deployment
